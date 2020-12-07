@@ -1,0 +1,21 @@
+# Shifted Rastrigin's Function
+
+The aim is to optimize Shifted Rastrigin's Function in dimension 50 and 500. <br />
+
+The chosen algorithm is Simulated Annealing. <br />
+
+## Parameters of the algorithm<br />
+Initial temperature : 10000<br />
+The number of iteration: 1000<br />
+The number of neighborhood search: 20<br />
+Decrease rate(alpha): 0.85<br /><br />
+
+
+## Results<br />
+### Objective value(Fitness)<br />
+Dimension 50 : 706.874<br />
+Dimension 500 : 11756.343<br /><br />
+
+### Computational time<br />
+Dimension 50 : 3.55 seconds<br />
+Dimension 500 : 34.07 seconds<br />
